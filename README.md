@@ -1,15 +1,16 @@
-
 # Hi there 👋 My name is Abbas  
 ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## 🛡️ GRC (Governance, Risk & Compliance)
+## 🛡️ Governance, Risk & Compliance (GRC) Builder | Cloud Security Practitioner  
 
-Hey there! I’m **Abbasi**, a cybersecurity learner diving headfirst into the world of **Governance, Risk, and Compliance (GRC)**.
+Hey there! I’m **Abbasi**, a cybersecurity professional-in-progress who’s actively **building Governance, Risk, and Compliance (GRC)** projects while developing strong expertise in **Cloud Security**.  
 
-Instead of just reading theory or watching videos, I’m learning GRC by **building real-world documentation** and **sharing my progress publicly**.
+I don’t just read about frameworks — I *build them*.  
+My approach blends **hands-on experimentation**, **documentation**, and **automation** to create systems that strengthen trust, reduce risk, and ensure compliance.  
 
-I’ve created a GitHub repository where I document every step of my **GRC journey** — from drafting **security policies** and **risk registers** to building **audit reports** and **compliance checklists**.  
-This is my personal **GRC Labs Journey**, where I learn by doing and grow by reflecting on my work.
+My GitHub is my personal **GRC Lab Journey** — a public record of my work building risk registers, compliance frameworks, and integrating governance into cloud platforms.  
+
+This isn’t theory. It’s the real work — from governance to cloud hardening.  
 
 ---
 
@@ -19,14 +20,27 @@ Seattle, WA
 ### ✉️ Contact  
 [kkamal1673@yahoo.com](mailto:kkamal1673@yahoo.com)
 
-### 🚀 Current Projects  
-Here are some of the GRC lab projects I’m currently developing:  
-- **[Risk-Register-Development](https://github.com/cyberabbas/Risk-Register-Development)** — A project to develop a risk register for IT operations.  
-- **[FinNetX-Full-Spectrum-GRC-Framework](https://github.com/cyberabbas/FinNetX-Full-Spectrum-GRC-Framework)** — GRC tracking template integrated with DevOps pipelines.  
-- **[FinNetX-GRC-Tracking](https://github.com/cyberabbas/FinNetX-GRC-Tracking)** — Repo for logging GRC issues and syncing with Google Sheets via Zapier.  
+---
 
-### 🧠 Currently Learning  
-Governance • Risk Management • Compliance Frameworks • Cloud Security
+### 🚀 Featured Projects  
+
+#### 🧩 Governance, Risk & Compliance  
+- **[Risk-Register-Development](https://github.com/cyberabbas/Risk-Register-Development)** — Developing a detailed risk register for IT and cloud environments.  
+- **[FinNetX-Full-Spectrum-GRC-Framework](https://github.com/cyberabbas/FinNetX-Full-Spectrum-GRC-Framework)** — Creating an integrated GRC framework aligned with DevOps and automation pipelines.  
+- **[FinNetX-GRC-Tracking](https://github.com/cyberabbas/FinNetX-GRC-Tracking)** — Building automated GRC issue tracking and data syncs via Zapier.  
+
+#### ☁️ Cloud Security Initiatives  
+- Implementing **GRC and compliance controls** across Google Cloud environments.  
+- Developing a **cloud-based risk register** aligned with NIST CSF & ISO 27001.  
+- Working on **Cloud Security Posture Management (CSPM)** and automated vulnerability monitoring.  
+
+---
+
+### 💼 Currently Working On  
+- Building **end-to-end GRC systems** integrated with DevOps workflows.  
+- Strengthening **cloud governance** and automating compliance mapping.  
+- Designing **risk assessment dashboards** and reporting pipelines.  
+- Expanding into **security automation** using Google Cloud services and APIs.  
 
 ---
 
@@ -62,5 +76,5 @@ Governance • Risk Management • Compliance Frameworks • Cloud Security
 
 ---
 
-### 💬 Favorite Motto  
-> “Compliance isn’t about checking boxes — it’s about building trust.”  
+### 💬 Personal Motto  
+> “Security without governance is chaos — and governance without action is theater.”  
