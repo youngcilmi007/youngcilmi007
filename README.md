@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Abbas  
 ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## 🛡️ Governance, Risk & Compliance (GRC) Builder | Cloud Security Practitioner  
+## 🛡️ Governance, Risk & Compliance (GRC) Builder | Cloud networksing engineer  Practitioner  
 
 Hey there! I’m **Abbasi**, a cybersecurity professional-in-progress who’s actively **building Governance, Risk, and Compliance (GRC)** projects while developing strong expertise in **Cloud Security**.  
 
